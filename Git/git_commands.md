@@ -1,6 +1,3 @@
-# 클라우드 ide, replit에서 git 사용하기
-
-
 # git 명령어
 
 |분류|명령어|내용 설명|
@@ -34,5 +31,3 @@
 |<로컬 변경사항 return 작업>|$ git checkout -- <파일명>|로컬의 변경 사항을 변경 전으로 되돌림|
 ||$ git fetch origin|원격에 저장된 git프로젝트의 현 상태를 다운로드|
 
-
-## replit
