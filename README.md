@@ -4,4 +4,4 @@
 
 ## Git
 
-+ [git 명령어 정리](./Git/git_commands)
++ [git 명령어 정리](./Git/git_commands.md)
