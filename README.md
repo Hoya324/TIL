@@ -6,10 +6,5 @@
 
 + [git 명령어 정리](./Git/git_commands.md)
 
-<<<<<<< HEAD
-<!-- HTTP 정리 -->
-=======
-<!-- stream 정리-->
-<!-- spring  -->
 
->>>>>>> origin/main
+<!-- HTTP 정리 -->
