@@ -2,6 +2,9 @@
 
 > 하루동안 공부한 내용을 정리해서 기록합니다.
 
+## ETC
++ [Regex(Regular Expression)](./ETC/Regex.md)
+
 ## Git
 
 + [git 명령어 정리](./Git/git_commands.md)
