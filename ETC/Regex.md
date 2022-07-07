@@ -42,4 +42,4 @@
 |^\d{3}-\d{2}$|우편번호|
 
 
-* [regExer-정규표현식 테스트 사이트](https://regexr.com/)
+* [regExr-정규표현식 테스트 사이트](https://regexr.com/)
