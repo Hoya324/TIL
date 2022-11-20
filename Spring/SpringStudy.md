@@ -1,5 +1,18 @@
 2022.11.22(일)
 
+정적 컨텐츠
+ 그냥 파일을 내려줌
+
+MVC와 템플릿 엔진
+ 템플릿 엔진을 model, view, controller 방식으로 쪼개서 뷰를 템플릿 엔진으로 html으로 랜더링해서 랜더링이 된 html을 고객에게 전달
+
+API
+객체를 반환하는 것(Hello hello = new Hello();에서 hello)
+-> HttpMessageConverter로 json 포맷으로 전달.
+@ResponseBody를 사용
+
+# 회원 관리 예제
+
 ## 비즈니스 요구사항 정리
 - 데이터: 회원ID,이름
 - 기능: 회원 등록, 조회
