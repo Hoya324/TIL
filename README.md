@@ -13,7 +13,7 @@
 
 ## 정보 통신
 
-+ [http란 무엇인가](./HTTP/HTTP.md)
++ [HTTP란 무엇인가](./HTTP/HTTP.md)
 
 
 
