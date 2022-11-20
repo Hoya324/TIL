@@ -9,7 +9,8 @@
 -> 클라이언트/브라우저가 서버에 요청하고 서버가 브라우저로 응답한다. 두 메세지는 공통 포맷으 가지고, HTTP 헤더와 HTTP 바디를 포함한다.
  
 HTTP 요청/응답
-https://www.cleantutorials.com/wp-content/uploads/2015/11/http-header-and-body.png![image](https://user-images.githubusercontent.com/96857599/202891868-d968e592-99df-4c5d-badb-d19ad316e46f.png)
+
+![](https://user-images.githubusercontent.com/96857599/202891868-d968e592-99df-4c5d-badb-d19ad316e46f.png)
 
 HTTP 헤더는 HTTP 바디(body) 및 요청/응답에 대한 정보를 포함한다. 
 바디에 대한 정보는 바디 컨텐츠 길이 등 바디 컨텐츠와 관련있다.
