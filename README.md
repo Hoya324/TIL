@@ -4,7 +4,7 @@
 
 ## ETC
 + [Regex(Regular Expression)](./ETC/Regex.md)
-+ [JSON과 XMl](./ETC/JSONandXML.md)
++ [JSON과 XML](./ETC/JSONandXML.md)
 
 ## Git
 
