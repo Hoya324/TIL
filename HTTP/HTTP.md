@@ -5,6 +5,20 @@
 
 - 프로토콜 : 서로 다른 하드웨어 기기 간 데이터 통신 규약
 
+1. HTTP 통신을 사용하며 클라이언트와 서버간의 두 가지 유형의 메세지(HTTP 요청 및 HTTP 응답)를 전송할 수 있다.
+-> 클라이언트/브라우저가 서버에 요청하고 서버가 브라우저로 응답한다. 두 메세지는 공통 포맷으 가지고, HTTP 헤더와 HTTP 바디를 포함한다.
+ 
+HTTP 요청/응답
+https://www.cleantutorials.com/wp-content/uploads/2015/11/http-header-and-body.png![image](https://user-images.githubusercontent.com/96857599/202891868-d968e592-99df-4c5d-badb-d19ad316e46f.png)
+
+HTTP 헤더는 HTTP 바디(body) 및 요청/응답에 대한 정보를 포함한다. 
+바디에 대한 정보는 바디 컨텐츠 길이 등 바디 컨텐츠와 관련있다.
+요청/응답에 대한 정보는 요청/응답에 대한 일반 정보를 포함한다.(요청 시간, 요청에 사용된 브라우저 등)
+헤더 속성은 name-value 쌍으로 설정되며, ':'으로 구분된다. => 이름:값 (Name-Value)
+
+HTTP 바디는 가져올 실제 데이터 컨텐츠/메세지 본문이 나타난다. 콘텐츠에느 요청한 리소스에 따라 HTML 코드, 이미지, CSS 스타일 시트 또는 JavaScript 파일이 포함될 수 있다.
+
+
 ## 기기 간 통신 과정
 
 TCP/IP 4계층을 기준으로 나누면,
