@@ -32,4 +32,4 @@
 3. @Test를 작성하므로써 save 메소드가 작동하는지 확인하도록한다.
 4. save 메서드 작성
 <img width="509" alt="스크린샷 2022-11-30 오후 2 57 10" src="https://user-images.githubusercontent.com/96857599/204718992-49b1dfdd-8105-4836-bd5e-bf128e264c13.png">
-5. ghkr
+5. 
