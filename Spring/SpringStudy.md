@@ -23,3 +23,7 @@
 
 <img width="384" alt="스크린샷 2022-11-20 오후 5 50 48" src="https://user-images.githubusercontent.com/96857599/202893496-a70bb101-7789-4a55-a20d-d1ada18fdd4b.png">
 
+### 테스크 케이스 작성
+<img width="314" alt="스크린샷 2022-11-30 오후 2 49 31" src="https://user-images.githubusercontent.com/96857599/204717914-75b3dcfa-c2d7-4d02-a8d7-466db2d987bd.png">
+
+te
