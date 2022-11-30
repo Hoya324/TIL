@@ -30,5 +30,6 @@
 2. MemoryMemberRepository 클래스를 테스트할 것이므로 MemoryMemberRepositoryTest 클래스 생성
 <img width="508" alt="스크린샷 2022-11-30 오후 2 53 27" src="https://user-images.githubusercontent.com/96857599/204718465-7cc7ffc1-0c48-4175-86db-60f603d761b9.png">
 3. @Test를 작성하므로써 save 메소드가 작동하는지 확인하도록한다.
-4. save 메ㅅ
-
+4. save 메서드 작성
+<img width="509" alt="스크린샷 2022-11-30 오후 2 57 10" src="https://user-images.githubusercontent.com/96857599/204718992-49b1dfdd-8105-4836-bd5e-bf128e264c13.png">
+5. ghkr
