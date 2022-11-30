@@ -23,8 +23,12 @@
 
 <img width="384" alt="스크린샷 2022-11-20 오후 5 50 48" src="https://user-images.githubusercontent.com/96857599/202893496-a70bb101-7789-4a55-a20d-d1ada18fdd4b.png">
 
-### 테스크 케이스 작성
+### 테스트 케이스 작성
 <img width="314" alt="스크린샷 2022-11-30 오후 2 49 31" src="https://user-images.githubusercontent.com/96857599/204717914-75b3dcfa-c2d7-4d02-a8d7-466db2d987bd.png">
 
-1. test > hello.hellospring 폴더에 repository 폴더 생성(테스트하고자 하는 폴더라 같은 이름)
-2. MemoryMemberRepository 클래스를 테스트할 것이므로 MemoryMemberRepositoryTest 
+1. test > hello.hellospring 폴더에 repository 폴더 생성(테스트하고자 하는 폴더라 같은 이름
+2. MemoryMemberRepository 클래스를 테스트할 것이므로 MemoryMemberRepositoryTest 클래스 생성
+<img width="508" alt="스크린샷 2022-11-30 오후 2 53 27" src="https://user-images.githubusercontent.com/96857599/204718465-7cc7ffc1-0c48-4175-86db-60f603d761b9.png">
+3. @Test를 작성하므로써 save 메소드가 작동하는지 확인하도록한다.
+4. save 메ㅅ
+
