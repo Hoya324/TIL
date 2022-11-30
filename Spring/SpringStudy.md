@@ -36,18 +36,25 @@
 5. 확인방법 3가지
 
 5-1. 같은지 확인하고 True/False 출력
-<img width="335" alt="스크린샷 2022-11-30 오후 3 03 15" src="https://user-images.githubusercontent.com/96857599/204720611-38c431b8-7ffe-4e6e-862a-89a086cd73c4.png">
+
+<img width="438" alt="스크린샷 2022-11-30 오후 3 08 21" src="https://user-images.githubusercontent.com/96857599/204726464-17f69260-15e2-4dd7-a16e-87c9814c4deb.png">
 
 5-2. Assertions junit jupiter api
+
 <img width="557" alt="스크린샷 2022-11-30 오후 3 07 31" src="https://user-images.githubusercontent.com/96857599/204720952-463d39a3-147a-44b4-a38e-7646c5443745.png">
+
 <img width="332" alt="스크린샷 2022-11-30 오후 3 11 00" src="https://user-images.githubusercontent.com/96857599/204721007-d1a96bd0-b3b6-4b34-af0c-0f3294f41d3f.png">
 
 5-3. Assertions assertj core api (많이 씀)
+
 <img width="335" alt="스크린샷 2022-11-30 오후 3 03 15" src="https://user-images.githubusercontent.com/96857599/204721167-7a1b08c6-d075-418e-be1e-26b51ee0953f.png">
+
 <img width="398" alt="스크린샷 2022-11-30 오후 3 13 04" src="https://user-images.githubusercontent.com/96857599/204721352-ff5e8db2-e6fc-489e-9f51-7296193c2d87.png">
 
 TIP! 이때, option + enter 키를 누르면
+
 <img width="466" alt="스크린샷 2022-11-30 오후 3 04 43" src="https://user-images.githubusercontent.com/96857599/204721590-2e48aef9-4be4-422a-9cfd-adf8f7a1a81d.png">
+
 static 클래스로 사용가능하다.
 
 6. 같은 방법으로 findByName()과 findAll() 테스트 코드를 작성한다.
@@ -57,14 +64,18 @@ static 클래스로 사용가능하다.
 TIP! 같은 내용의 인스턴스 이름만 다르다며 shift + F6키로 rename이 가능하다.
 
 7. 이 상태로 테스트를 진행하며 repository에 이미 저장된 데이터가 중복되 수 있으므로, main 폴더의 MemoryMemberRepository 클래스에 데이터를 초기화시켜주는 메소드를 작성하고 Test에서 하나의 테스트가 끝나면 저장소 등 공용 데이터를 모두 지워주는 메서드를 작성한다.
+
 - @AfterEach를 작성하지 않았을 때
+
 <img width="208" alt="스크린샷 2022-11-30 오후 3 28 06" src="https://user-images.githubusercontent.com/96857599/204726011-edc42da5-e192-44e6-a790-c89fda258852.png">
+
 - 작성
+
 <img width="236" alt="스크린샷 2022-11-30 오후 3 30 47" src="https://user-images.githubusercontent.com/96857599/204726053-acf8c963-4f95-422b-b744-c9ae4be8f497.png">
+
 <img width="249" alt="스크린샷 2022-11-30 오후 3 31 34" src="https://user-images.githubusercontent.com/96857599/204726070-25c57fbf-fc62-4399-925d-db44fee34cb1.png">
+
 - 작성 후
+
 <img width="196" alt="스크린샷 2022-11-30 오후 3 43 08" src="https://user-images.githubusercontent.com/96857599/204726137-8f31f3c8-4dac-428f-b401-ce51a8c9059d.png">
 
-
-5-3. Assertions assertj core api (많이 씀)ㅇ
-5-3. Assertions assertj core api (많이 
