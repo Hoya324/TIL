@@ -27,11 +27,4 @@
 <img width="314" alt="스크린샷 2022-11-30 오후 2 49 31" src="https://user-images.githubusercontent.com/96857599/204717914-75b3dcfa-c2d7-4d02-a8d7-466db2d987bd.png">
 
 1. test > hello.hellospring 폴더에 repository 폴더 생성(테스트하고자 하는 폴더라 같은 이름)
-2. MemoryMemberRepository 클래스를 테스트할 것이므로 MemoryMemberRepositoryTest ㅋ
-ㅡ
-ㅡㄹ
-ㅡㄹ래
-ㅡㄹ랫
-ㅡㄹ래
-ㅡㄹㄹ
-
+2. MemoryMemberRepository 클래스를 테스트할 것이므로 MemoryMemberRepositoryTest 
