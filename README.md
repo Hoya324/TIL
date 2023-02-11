@@ -14,13 +14,13 @@
 ## 정보 통신
 
 + [HTTP란 무엇인가](./HTTP/HTTP.md)
-+ [모든 개발자를 위한 HTTP 웹 기본 지식](https://github.com/Hoya324/HTTPStudy)
++ (private) [모든 개발자를 위한 HTTP 웹 기본 지식](https://github.com/Hoya324/HTTPStudy)
 
 ## Spring
 
-+ [스프링 입문](https://github.com/Hoya324/springStudy)
-+ [스프링 핵심 원리 - 기본편](https://github.com/Hoya324/springStudyBasic)
-+ [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://github.com/Hoya324/springMVCStudy)
++ (private) [스프링 입문](https://github.com/Hoya324/springStudy)
++ (private) [스프링 핵심 원리 - 기본편](https://github.com/Hoya324/springStudyBasic)
++ (private) [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://github.com/Hoya324/springMVCStudy)
   - [서블릿 프로젝트](https://github.com/Hoya324/servlet)
 
 
