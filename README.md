@@ -16,7 +16,7 @@
 ## 정보 통신
 
 + [HTTP란 무엇인가](./HTTP/HTTP.md)
-+ (private) [모든 개발자를 위한 HTTP 웹 기본 지식](https://github.com/Hoya324/SpringNote/Http)
++ (private) [모든 개발자를 위한 HTTP 웹 기본 지식](https://github.com/Hoya324/SpringNote/blob/main/HTTP.md)
 
 ## Spring
 
